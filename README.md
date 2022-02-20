@@ -4,3 +4,5 @@
 
 #
 # <img src="The Hour Of Code (Certificate).jpg">
+#
+> I got this Certificate when I am 13 years old (Grade 8D).
